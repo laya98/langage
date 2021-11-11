@@ -1,0 +1,29 @@
+*{
+    margin: auto;
+}
+.card{
+    margin-top: 10px;
+}
+#brand_name{
+    font-size: large;
+    font-weight: bold;
+    color: white;
+  
+}
+#text{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: red;
+    font-family: monospace;
+}
+.card ,#arabic,#english,#fransh{
+   
+    border: 0px solid black;
+    outline: none;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.alert{
+    background-color: whitesmoke;
+}
